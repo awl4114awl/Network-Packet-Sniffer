@@ -69,8 +69,6 @@ A network packet sniffer is a tool that captures and analyzes network traffic. B
 
 ### Full Code
 
-Save the following code as `packet_sniffer.py`:
-
 ```python
 from scapy.all import sniff
 
@@ -114,8 +112,6 @@ sudo python packet_sniffer.py
 ## Enhanced Script
 
 ### Full Code
-
-Save the following code as `enhanced_packet_sniffer.py`:
 
 ```python
 from scapy.all import sniff
@@ -178,3 +174,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, please contact [jordanryancalvert@gmail.com](mailto:jordanryancalvert@gmail.com).
 ```
+
+Feel free to adjust the scripts and README to fit your project requirements and preferences.
